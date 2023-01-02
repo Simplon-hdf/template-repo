@@ -3,6 +3,21 @@
 - [ ] **Choix de la méthodologie (Agile)**
 - [ ] **Créer un repo Github**
 - [ ] **Créer la structure du repo (Best practice)**
+    -  Dossier
+        - [ ] .config 
+        - [ ] dep 
+        - [ ] doc
+        - [ ] res
+        - [ ] samples
+        - [ ] src
+        - [ ] tools
+    - Fichier
+        - [ ] .gitignore
+        - [ ] .gitattribute
+        - [ ] .gitmodules  
+        - [ ] .gitconfig 
+        - [ ] .dockerignore
+        - [ ] README.md 
 
 - [ ] **Mise en du Readme**
 - [ ] **Cadrage de la demande client**

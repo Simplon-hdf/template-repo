@@ -6,27 +6,29 @@
 
 # Template projet
 
-## Checklist Projet
+<details>
+<summary><h2>Checklist</h2></summary>
 
 - [ ] **Choix de la méthodologie (Agile)**
 - [ ] **Créer un repo Github**
 - [ ] **Créer la structure du repo (Best practice)**
-    - Dossier
-        - [ ] .config
-        - [ ] dep
-        - [ ] doc
-        - [ ] res
-        - [ ] samples
-        - [ ] tools
-        - [ ] build
-        - [ ] test
-    - Fichier
-        - [ ] LICENCE.md
-        - [ ] README.md
-        - [ ] .gitattributes
-        - [ ] .gitignore
-        - [ ] .gitmodules
-        - [ ] .dockerignore
+
+  - Dossier
+    - [ ] .config
+    - [ ] dep
+    - [ ] doc
+    - [ ] res
+    - [ ] samples
+    - [ ] tools
+    - [ ] build
+    - [ ] test
+  - Fichier
+    - [ ] LICENCE.md
+    - [ ] README.md
+    - [ ] .gitattributes
+    - [ ] .gitignore
+    - [ ] .gitmodules
+    - [ ] .dockerignore
 
 - [ ] **Mise en place du Readme**
 - [ ] **Cadrage de la demande client**
@@ -60,3 +62,5 @@
   - [ ] Sprint Review
 
 - [ ] **Démarrer les sprints**
+
+</details>

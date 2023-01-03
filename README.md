@@ -4,14 +4,23 @@
 ![GitHub issues](https://img.shields.io/github/issues/Simplon-hdf/structure-projet?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/Simplon-hdf/structure-projet?style=for-the-badge)
 
+<h1 align="center">Project name</h1>
+
 <div align="center">
 
-# Project description
+## Project Description
 
-Ce dépôt est une structure permettant de démarrer un projet professionnel ou personnel.Ce-ci vous fera gagner un temps précieux et de maximiser votre temps de travail. 
+Ce dépôt est une structure permettant de démarrer un projet professionnel ou personnel. Ceci vous fera gagner un temps précieux et maximiser votre temps de travail.
+
 </div>
 
-# Template projet
+## About The Project
+
+### Built With
+
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <details>
 <summary><h2>Checklist</h2></summary>
@@ -71,3 +80,11 @@ Ce dépôt est une structure permettant de démarrer un projet professionnel ou 
 - [ ] **Démarrer les sprints**
 
 </details>
+
+## Author
+
+## License
+
+Distributed under the MIT License. `LICENSE` See for more information.
+
+## Ressource

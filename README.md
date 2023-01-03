@@ -12,6 +12,7 @@
         - [ ] tools
         - [ ] build
         - [ ] test
+        - [ ] src
     - Fichier
         - [ ] LICENCE.md
         - [ ] README.md

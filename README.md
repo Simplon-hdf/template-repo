@@ -4,6 +4,13 @@
 ![GitHub issues](https://img.shields.io/github/issues/Simplon-hdf/structure-projet?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/Simplon-hdf/structure-projet?style=for-the-badge)
 
+<div align="center">
+
+# Project description
+
+Ce dépôt est une structure permettant de démarrer un projet professionnel ou personnel.Ce-ci vous fera gagner un temps précieux et de maximiser votre temps de travail. 
+</div>
+
 # Template projet
 
 <details>

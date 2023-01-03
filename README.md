@@ -1,3 +1,9 @@
+![GitHub contributors](https://img.shields.io/github/contributors/Simplon-hdf/structure-projet?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Simplon-hdf/structure-projet?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Simplon-hdf/structure-projet?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Simplon-hdf/structure-projet?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/Simplon-hdf/structure-projet?style=for-the-badge)
+
 # Template projet
 
 ## Checklist Projet

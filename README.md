@@ -86,10 +86,9 @@
   Dans le cadre de la formation CDA dispensé par Simplon, mon équipe doit réaliser un projet Fil-Rouge.<br>
 </p>
 <p dir="auto">
-  Ce projet consiste à développer une application pour un club sportif proposant des terrains de squash, de<br>
-  badminton et de tennis de table. L'objectif principal de cette application est de faciliter la recherche de partenaires<br>
-  de jeu en offrant une plateforme permettant aux joueurs de se connecter et de jouer ensemble, quel que soit leur niveau<br> 
-  d'expérience.<br>
+  Ce projet consiste à développer une application pour un club sportif proposant des terrains de squash, de badminton et de tennis de table.<br>
+  L'objectif principal de cette application est de faciliter la recherche de partenaires de jeu en offrant une plateforme permettant aux joueurs de se connecter et de jouer ensemble, quel que soit leur niveau
+  d'expérience.
 </p>
 
 ## Project Description
@@ -148,13 +147,36 @@
 <p dir="auto">L'équipe est constituée de 2 membres :</p>
 <ul dir="auto">
   <li>
-    <p dir="auto"><strong>GONZALEZ CAMARGO Ximena</strong> qui a le rôle de <strong>Développeur</strong> dont la fonction est de développer les différentes solutions élaborées par tous<br>
-    les membres de l'équipe en charge du projet et validées par le client.<br></p>
+    <p dir="auto">
+      <strong>GONZALEZ CAMARGO Ximena</strong> qui a le rôle de <strong>Développeur</strong> dont la fonction est de développer les différentes solutions élaborées par tous les membres de l'équipe en charge du projet et validées par le client.
+    </p>
   </li>
   <li>
     <p dir="auto"><strong>MADDELEIN Jean-Benoit</strong> qui a lui aussi le rôle de <strong>Développeur</strong>.<br></p>
   </li>
 </ul>
+
+<div class="markdown-heading" dir="auto">
+  <h1 tabindex="-1" class="heading-element" dir="auto">📝 Proposition de stratégie d'amélioration de reservations du club sportif Bad's</h1>
+  <a id="user-content--proposition-de-stratégie-damélioration-de-la-communication-interne-à-simplon-hdf" class="anchor" aria-label="Permalink: 📝 Proposition de stratégie d'amélioration de reservations du club sportif Bad's" href="#-proposition-de-stratégie-damélioration-de-la-communication-interne-à-simplon-hdf">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</div>
+<p dir="auto">
+  L'un des membres de l'équipe pratique le badminton au sein du Bad's Club et a pu constater les difficultés rencontrées pour trouver un partenaire de jeu disponible au même moment.C'est pourquoi, dans le cadre de ce projet, l'équipe a mené une étude approfondie afin d'identifier les problématiques rencontrées par les membres du club. Des échanges ont été réalisés avec différents membres pour comprendre leurs besoins et leurs attentes. Suite à cette analyse, l'équipe a élaboré des solutions pour répondre aux différentes problématiques identifiées.
+</p>
+<p dir="auto">
+  Notre stratégie d'amélioration se concentre sur l'optimisation du processus de réservation et d'annulation pour offrir une expérience client plus fluide et efficace.  
+</p>
+<p dir="auto">
+  Tout d'abord, dans le but d'améliorer l'expérience des clients du Bad's Club, nous avons décidé de développer une application mobile. Cette application a pour objectif principal de faciliter la recherche de partenaires de jeu, quel que soit leur niveau d'expérience. Trouver un partenaire approprié pour jouer peut s'avérer difficile, surtout lorsque l'on souhaite progresser dans son sport. L'application vise donc à résoudre ce problème en offrant une plateforme pour que les joueurs se connectent et jouent ensemble.  
+</p>
+<p dir="auto">
+  Grâce à cette application, les utilisateurs du Bad's Club pourront réserver des terrains et trouver des partenaires de jeu en fonction de leur niveau. Nous sommes convaincus que cette application contribuera à améliorer l'expérience des clients et à fidéliser notre clientèle.  
+</p>
+<p dir="auto">
+  Nous sommes convaincus que cette stratégie d'amélioration permettra de répondre aux attentes de nos clients et de contribuer à la réussite du Bad's Club.
+</p>
 
 ### Built With
 

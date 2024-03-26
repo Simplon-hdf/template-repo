@@ -111,6 +111,10 @@
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
   </a>
 </div>
+<p dir="auto">
+  Dans le cadre de ce projet, nous avons dû rédiger des documents afin de présenter à notre client (Bad's Club) des pistes d'amélioration au sein du club. 
+</p>
+
 <div class="markdown-heading" dir="auto">
   <h1 tabindex="-1" class="heading-element" dir="auto">Contexte</h1>
   <a id="user-content-contexte" class="anchor" aria-label="Permalink: Contexte" href="#contexte">
@@ -177,6 +181,152 @@
 <p dir="auto">
   Nous sommes convaincus que cette stratégie d'amélioration permettra de répondre aux attentes de nos clients et de contribuer à la réussite du Bad's Club.
 </p>
+
+<div class="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto">👁‍🗨 Identification des problèmes et de potentielles solutions</h2>
+  <a id="user-content--identification-problèmes-potentielles-solutions" class="anchor" aria-label="Permalink: 👁‍🗨 Identification des problèmes et de potentielles solutions" href="#-identification-problèmes-potentielles-solutions">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</div>
+<table>
+  <tbody>
+    <tr>
+        <td>Problématiques</td>
+        <td>Problèmes</td>
+        <td>Solution</td>
+    </tr>
+    <tr>
+        <td rowspan="4">La recherche de partenaires de jeux : un obstacle à la reservation de terrains</td>
+        <td>Difficultés pour trouver des partenaires de jeu</td>
+        <td><a href="#challenges-finding-partners">Mettre en place un système de jumelage pour aider les membres à trouver des partenaires de jeu appropriés</a></td>
+    </tr>
+    <tr>
+    <td>Trouver des partenaires pour le(s) sport(s) souhaité(s)</td>
+        <td><a href="#desired-sports">Mettre un critère pour choisir un ou plusieurs sports</a></td>
+    </tr>
+    <tr>
+        <td>Chercher des parteneiares de jeu avec un niveau de jeu specifique</td>
+        <td><a href="#players-skill-level">Ajouter un critere niveau</a></td>
+    </tr>
+    <tr>
+        <td>Favoriser les horaires compatibles entre joueurs</td>
+        <td><a href="#schedules-among-players">Inciter les joueurs à proposer le plus de creneaux horaires possibles</a></td>
+    </tr>
+    <tr>
+        <td>Concrétiser l’organisation des parties</td>
+        <td><a href="#matches-organization">Lorsqu’un partenaire potentiel est trouvé, les deux utilisateurs reçoivent une notification. Chacun doit confirmer la réservation</a></td>
+    </tr>
+    <tr>
+        <td>Savoir lorsqu’une réservation est confirmée ou annulée</td>
+        <td><a href="#reservation-confirmed-cancelled">envoyer une notification à l’utilisateur</a></td>
+    </tr>
+    <tr>
+        <td>Communiquer avec les autres joueurs</td>
+        <td><a href="#partners-communication">Implémenter un moyen de communication avec les membres du club</a></td>
+    </tr>
+    <tr>
+        <td>L’utilisateur ne souhaite plus jouer avec un autre partenaire</td>
+        <td><a href="#ban-player">Mettre en place une option pour que le joueur en question ne soit plus proposé comme partenaire potentiel</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto" data-react-autofocus="true">🔎 Difficultés pour trouver des partenaires de jeu<a id="challenges-finding-partner"></a></h2>
+  <a id="user-content--identification-problèmes-potentielles-solutions" class="anchor" aria-label="Permalink: 🔎 Difficultés pour trouver des partenaires de jeu" href="#challenges-finding-partner">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</div>
+<p dir="auto">
+  <a 
+    target="_blank"
+    rel="noopener noreferrer" 
+    href="https://tennistempete.fr/wp-content/uploads/elementor/thumbs/Couverture-oswsgpl70kk4g4fqi5q0chchr1uo1jz2wrnsvb9kso.jpg"
+  >
+    <img 
+      src="https://tennistempete.fr/wp-content/uploads/elementor/thumbs/Couverture-oswsgpl70kk4g4fqi5q0chchr1uo1jz2wrnsvb9kso.jpg" 
+      alt="difficultes pour trouver des partenaires" 
+      style="max-width: 100%;"
+    >
+  </a>
+</p>
+<p dir="auto">
+  L'un des membres de notre équipe pratique le badminton au sein du Bad's Club. Au cours de discussions avec différents membres du club, nous avons identifié une problématique majeure : les difficultés à trouver des partenaires de jeu. Cette difficulté peut décourager certains joueurs de pratiquer régulièrement leur sport favori et limiter les possibilités de jeu en dehors de leur cercle social habituel.
+</p>
+<p dir="auto">
+  Pour résoudre cette problématique, nous avons réfléchi à la création d'une application mobile dédiée au club. Cette application permettrait aux membres de créer leur profil et de définir leurs préférences, telles que leur sport préféré, leur niveau de jeu, leurs disponibilités et leurs préférences de jeu.
+</p>
+<p dir="auto">
+  Pour aider les membres du Bad's Club à trouver des partenaires de jeu adaptés à leurs besoins, nous avons également réfléchi à la création d'un système de matching au sein de l'application mobile. Ce système prendrait en compte les préférences sélectionnées par chaque membre, telles que leur niveau de jeu, leurs disponibilités et leurs préférences de jeu. Grâce à ce système de matching, les membres pourraient recevoir des suggestions de partenaires de jeu compatibles avec leur profil et filtrer les résultats en fonction de critères spécifiques, tels que l'âge, le sexe ou la localisation géographique.
+</p>
+<p dir="auto">
+  Ce système de matching encouragerait la découverte de nouveaux partenaires de jeu et élargirait les possibilités de jeu pour les membres du club. De plus, il permettrait de gagner du temps dans la recherche de partenaires de jeu adaptés et de maximiser le temps de jeu effectif sur les terrains.
+</p>
+<p dir="auto">
+  En somme, la création d'une application mobile dédiée au club et d'un système de matching au sein de celle-ci pourrait aider à résoudre la problématique de la recherche de partenaires de jeu, tout en offrant une expérience de jeu plus personnalisée et efficace aux membres du Bad's Club. Cela encouragerait également la convivialité et la création de liens entre les membres du club.
+</p>
+
+<div class="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto" data-react-autofocus="true">🏸 Trouver des partenaires pour le(s) sport(s) souhaité(s)<a id="desired-sports"></a></h2>
+  <a id="user-content--endiguer-la-multiplicité-des-outils-" class="anchor" aria-label="Permalink: 🏸 Trouver des partenaires pour le(s) sport(s) souhaité(s)" href="#desired-sports">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</div>
+<p dir="auto">
+  <a 
+    target="_blank"
+    rel="noopener noreferrer" 
+    href="https://wl-5minutecrafts.cf.tsp.li/resize/1200x630/jpg/ab7/a09/ac96fe5f8cb4f4d583f23f5255.jpg"
+  >
+    <img 
+      src="https://wl-5minutecrafts.cf.tsp.li/resize/1200x630/jpg/ab7/a09/ac96fe5f8cb4f4d583f23f5255.jpg" 
+      alt="difficultes pour trouver des partenaires" 
+      style="max-width: 100%;"
+    >
+  </a>
+</p>
+
+<div class="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto" data-react-autofocus="true">📶 Chercher des parteneiares de jeu avec un niveau de jeu specifique<a id="players-skill-level"></a></h2>
+  <a id="user-content--identification-problèmes-potentielles-solutions-" class="anchor" aria-label="Permalink: 📶 Chercher des parteneiares de jeu avec un niveau de jeu specifique" href="#players-skill-levels">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</div>
+
+<div class="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto" data-react-autofocus="true">🕘 Favoriser les horaires compatibles entre joueurs<a id="schedules-among-players"></a></h2>
+  <a id="user-content--identification-problèmes-potentielles-solutions" class="anchor" aria-label="Permalink: 🕘 Favoriser les horaires compatibles entre joueurs" href="#schedules-among-players">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</div>
+
+<div class="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto" data-react-autofocus="true">🎯 Concrétiser l’organisation des parties<a id="matches-organization"></a></h2>
+  <a id="user-content--identification-problèmes-potentielles-solutions" class="anchor" aria-label="Permalink: 🎯 Concrétiser l’organisation des parties" href="#matches-organization">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</div>
+
+<div class="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto" data-react-autofocus="true">☑ Savoir lorsqu’une réservation est confirmée ou annulée<a id="booking-status"></a></h2>
+  <a id="user-content--identification-problèmes-potentielles-solutions" class="anchor" aria-label="Permalink: ☑ Savoir lorsqu’une réservation est confirmée ou annulée" href="#booking-status">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</div>
+
+<div class="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto" data-react-autofocus="true">🗣️Communiquer avec les autres joueurs<a id="players-communication"></a></h2>
+  <a id="user-content--identification-problèmes-potentielles-solutions" class="anchor" aria-label="Permalink: 🗣️Communiquer avec les autres joueurs" href="#players-communication">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</div>
+
+<div class="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto" data-react-autofocus="true">🚫 L’utilisateur ne souhaite plus jouer avec un autre partenaire<a id="ban-player"></a></h2>
+  <a id="user-content--identification-problèmes-potentielles-solutions" class="anchor" aria-label="Permalink: 🚫 L’utilisateur ne souhaite plus jouer avec un autre partenaire" href="#ban-player">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</div>
 
 ### Built With
 

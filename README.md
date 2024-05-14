@@ -25,9 +25,9 @@ Ce dépôt est une structure permettant de démarrer un projet professionnel ou 
 <details>
 <summary><h2>Checklist</h2></summary>
 
-- [ ] **Choix de la méthodologie (Agile)**
-- [ ] **Créer un repo Github**
-- [ ] **Créer la structure du repo (Best practice)**
+- [X] **Choix de la méthodologie (Agile)**
+- [X] **Créer un repo Github**
+- [X] **Créer la structure du repo (Best practice)**
 
   - Dossier
     - [ ] .config
@@ -49,11 +49,11 @@ Ce dépôt est une structure permettant de démarrer un projet professionnel ou 
 - [ ] **Mise en place du Readme**
 - [ ] **Cadrage de la demande client**
   - [ ] Contexte / Enjeux / Problèmatique
-  - [ ] Questions entretiens
+  - [X] Questions entretiens
   - [ ] Persona
-  - [ ] Présentation (PowerPoint)
-  - [ ] Mail de suivie / Proposition stratégique
-- [ ] **Benchmark (Analyse de la concurence)**
+  - [X] Présentation (PowerPoint)
+  - [X] Mail de suivie / Proposition stratégique
+- [X] **Benchmark (Analyse de la concurence)**
 - [ ] **Spécification fonctionnelle**
   - [ ] Règle de gestion
   - [ ] UML
@@ -67,9 +67,9 @@ Ce dépôt est une structure permettant de démarrer un projet professionnel ou 
     - [ ] MPD
   - [ ] RBAC
 - [ ] **Epic**
-  - [ ] User Story
+  - [X] User Story
   - [ ] Product backlog (Tâches)
-- [ ] **Jira**
+- [X] **Jira**
 - [ ] **Rituels agiles**
 
   - [ ] Sprint planning meeting
